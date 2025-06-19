@@ -44,7 +44,7 @@
 
 ### **1️⃣ Clone the Repository**
 ```bash
- git clone https://github.com/adamyasingh22/travel-torque.git
+ git clone https://github.com/Prashant963478/travel-torque.git
  cd travel-torque
 ```
 
