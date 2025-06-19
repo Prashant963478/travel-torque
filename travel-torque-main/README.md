@@ -92,13 +92,7 @@
 
 ---
 
-## 📩 Contact
-For any queries or collaboration, reach out:
-- **LinkedIn:** [Adamya Singh](https://www.linkedin.com/in/adamyasingh22/)
-- **GitHub:** [@adamyasingh22](https://github.com/adamyasingh22)
-- **Email:** adamyasingh22@gmail.com
 
----
 
 ### ⭐ **If you find this project useful, don't forget to star the repo!** ⭐
 
